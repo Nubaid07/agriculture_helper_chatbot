@@ -4,5 +4,5 @@ In this project we are designing Chatbot for farmers where Chatbot ask farmer to
 
 Contributors
 - [Nubaid07](https://github.com/Nubaid07)
-- [Teammate1](https://github.com/mohammed-abdul-raheem)
+- [Raheem](https://github.com/mohammed-abdul-raheem)
 - [Shadan](https://github.com/mohammedshadanuddin-web)
